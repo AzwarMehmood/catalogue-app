@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 class Home extends StatelessWidget {
-  final int days = 20;
   final String ask = "My dear, How are you?";
 
   @override
@@ -12,8 +11,7 @@ class Home extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("$days $ask"),
-        ),
+          child: Text("$ask"),        ),
       ),
       drawer: Drawer(),
     );
