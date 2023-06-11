@@ -15,7 +15,7 @@ class itemWidget extends StatelessWidget {
         },
         leading: Image.network(item.image),
         title: Text(item.name),
-        subtitle: Text(item.desc),
+        subtitle: Text(item.avail),
         trailing: Text("\$${item.price}"),
       ),
     );

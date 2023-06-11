@@ -1,0 +1,132 @@
+{
+       "products": [
+              {
+                     "id": 1,
+                     "name": "Samsung Galaxy S22 Ultra",
+                     "avail": "In Stock",
+                     "price": 375000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_YZCZBUMRU5tGQcxTxRIrYXYozdFbwIxdRgIQcvK9.jpg"
+              },
+              {
+                     "id": 2,
+                     "name": "Samsung Galaxy S21",
+                     "avail": "In Stock",
+                     "price": 155000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_XisqETapB2yMIypbx0qOOAPQZbhDxV52EEdFQg2v.jpg"
+              },
+              {
+                     "id": 3,
+                     "name": "Samsung Galaxy S23",
+                     "avail": "In Stock",
+                     "price": 391000,
+                     "color": "#008434",
+                     "image": "https://mobileget.pk/wp-content/uploads/Samsung-Galaxy-S23-Plus.jpg"
+              },
+              {
+                     "id": 4,
+                     "name": "Samsung Galaxy S23 Ultra",
+                     "avail": "In Stock",
+                     "price": 560000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_F9zRkraQeNoW1Bmc5PnpjDyDamllG2ubX8L8J8h7.png"
+              },
+              {
+                     "id": 5,
+                     "name": "Samsung Galaxy A13",
+                     "avail": "In Stock",
+                     "price": 57000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_nVCJyVKSXGB0tLzIEpa0vgOkoVQIo1LepJdg5f59.jpg"
+              },
+              {
+                     "id": 6,
+                     "name": "Samsung Galaxy A33",
+                     "avail": "In Stock",
+                     "price": 98000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_16gU4aghiGlXSAflIEF0f4RhdFbY0WdrYYNzJ1g6.jpg"
+              },
+              {
+                     "id": 7,
+                     "name": "Samsung Galaxy A23",
+                     "avail": "In Stock",
+                     "price": 75000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_shNxN0cC0fmZw1lIQj74xQXers1w84MIV7SwunxA.jpg"
+              },
+              {
+                     "id": 8,
+                     "name": "Samsung Galaxy A53",
+                     "avail": "In Stock",
+                     "price": 114000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_mtf5HL4AFSsfV8c6w1fMUXcmMvX6CI7QVZJKLEsa.jpg"
+              },
+              {
+                     "id": 1,
+                     "name": "Samsung Galaxy S22 Ultra",
+                     "avail": "In Stock",
+                     "price": 375000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_YZCZBUMRU5tGQcxTxRIrYXYozdFbwIxdRgIQcvK9.jpg"
+              },
+              {
+                     "id": 2,
+                     "name": "Samsung Galaxy S21",
+                     "avail": "In Stock",
+                     "price": 155000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_XisqETapB2yMIypbx0qOOAPQZbhDxV52EEdFQg2v.jpg"
+              },
+              {
+                     "id": 3,
+                     "name": "Samsung Galaxy S23",
+                     "avail": "In Stock",
+                     "price": 391000,
+                     "color": "#008434",
+                     "image": "https://mobileget.pk/wp-content/uploads/Samsung-Galaxy-S23-Plus.jpg"
+              },
+              {
+                     "id": 4,
+                     "name": "Samsung Galaxy S23 Ultra",
+                     "avail": "In Stock",
+                     "price": 560000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_F9zRkraQeNoW1Bmc5PnpjDyDamllG2ubX8L8J8h7.png"
+              },
+              {
+                     "id": 5,
+                     "name": "Samsung Galaxy A13",
+                     "avail": "In Stock",
+                     "price": 57000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_nVCJyVKSXGB0tLzIEpa0vgOkoVQIo1LepJdg5f59.jpg"
+              },
+              {
+                     "id": 6,
+                     "name": "Samsung Galaxy A33",
+                     "avail": "In Stock",
+                     "price": 98000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_16gU4aghiGlXSAflIEF0f4RhdFbY0WdrYYNzJ1g6.jpg"
+              },
+              {
+                     "id": 7,
+                     "name": "Samsung Galaxy A23",
+                     "avail": "In Stock",
+                     "price": 75000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_shNxN0cC0fmZw1lIQj74xQXers1w84MIV7SwunxA.jpg"
+              },
+              {
+                     "id": 8,
+                     "name": "Samsung Galaxy A53",
+                     "avail": "In Stock",
+                     "price": 114000,
+                     "color": "#008434",
+                     "image": "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_mtf5HL4AFSsfV8c6w1fMUXcmMvX6CI7QVZJKLEsa.jpg"
+              }
+       ]
+}
